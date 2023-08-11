@@ -5,7 +5,7 @@
 </script>
 
 
-<div class="wrapper">
+<div id="wrapper">
    <Header />
      
       <slot></slot>
